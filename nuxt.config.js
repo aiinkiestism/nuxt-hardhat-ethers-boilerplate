@@ -3,8 +3,8 @@ import colors from 'vuetify/es5/util/colors'
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    titleTemplate: '%s - nuxt-ethers-boilerplate',
-    title: 'nuxt-ethers-boilerplate',
+    titleTemplate: '%s - nuxt-hardhat-ethers-boilerplate',
+    title: 'nuxt-hardhat-ethers-boilerplate',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
