@@ -73,7 +73,7 @@
     "@openzeppelin/contracts": "^4.5.0",
     "@openzeppelin/contracts-upgradeable": "^4.5.1",
     "@openzeppelin/hardhat-upgrades": "1.15.0",
-    "@typechain/hardhat": "^4.0.0",
+    "@typechain/hardhat": "^5.0.0",
     "chai": "^4.3.6",
     "cross-env": "^7.0.3",
     "decimal.js": "^10.3.1",
