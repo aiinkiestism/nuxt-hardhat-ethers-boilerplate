@@ -70,7 +70,7 @@
     "@nuxtjs/eslint-config": "^9.0.0",
     "@nuxtjs/eslint-module": "^3.0.2",
     "@nuxtjs/vuetify": "^1.12.3",
-    "@openzeppelin/contracts": "^4.5.0",
+    "@openzeppelin/contracts": "^4.6.0",
     "@openzeppelin/contracts-upgradeable": "^4.5.1",
     "@openzeppelin/hardhat-upgrades": "1.17.0",
     "@typechain/hardhat": "^5.0.0",
