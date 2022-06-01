@@ -72,7 +72,7 @@
     "@nuxtjs/vuetify": "^1.12.3",
     "@openzeppelin/contracts": "^4.5.0",
     "@openzeppelin/contracts-upgradeable": "^4.5.1",
-    "@openzeppelin/hardhat-upgrades": "1.17.0",
+    "@openzeppelin/hardhat-upgrades": "1.18.0",
     "@typechain/hardhat": "^5.0.0",
     "chai": "^4.3.6",
     "cross-env": "^7.0.3",
