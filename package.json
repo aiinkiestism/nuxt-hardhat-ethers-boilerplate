@@ -88,7 +88,7 @@
     "hardhat-abi-exporter": "^2.4.1",
     "husky": "^7.0.4",
     "lint-staged": "^12.3.4",
-    "mocha-chai-jest-snapshot": "^1.1.2",
+    "mocha-chai-jest-snapshot": "^1.1.4",
     "prettier": "^2.6.1",
     "prettier-plugin-solidity": "^1.0.0-beta.15",
     "solhint": "^3.3.7",
