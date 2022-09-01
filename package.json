@@ -28,7 +28,7 @@
     "@nuxtjs/axios": "^5.13.6",
     "@nuxtjs/dotenv": "^1.4.1",
     "@nuxtjs/google-gtag": "^1.0.4",
-    "@nuxtjs/i18n": "^7.2.0",
+    "@nuxtjs/i18n": "^7.3.0",
     "@nuxtjs/pwa": "^3.3.5",
     "@portis/web3": "^4.0.7",
     "@typechain/truffle-v5": "^7.0.0",
