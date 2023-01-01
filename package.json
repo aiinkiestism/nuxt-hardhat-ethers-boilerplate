@@ -90,7 +90,7 @@
     "lint-staged": "^12.3.4",
     "mocha-chai-jest-snapshot": "^1.1.2",
     "prettier": "^2.6.1",
-    "prettier-plugin-solidity": "^1.0.0-beta.15",
+    "prettier-plugin-solidity": "^1.1.1",
     "solhint": "^3.3.7",
     "solhint-plugin-prettier": "^0.0.5",
     "solidity-coverage": "^0.7.20",
