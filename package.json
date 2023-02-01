@@ -58,7 +58,7 @@
     "vue-select": "^3.18.3",
     "vue-server-renderer": "^2.6.14",
     "vue-template-compiler": "^2.6.14",
-    "vuetify": "^2.6.3",
+    "vuetify": "^2.6.14",
     "web3modal": "^1.9.5",
     "webpack": "^5.69.1"
   },
